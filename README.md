@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Christopher Axe, I'm the Lead Application Engineer at Property49. I also freelance now and then.
+
+I've experience on both frontend and backend development spending most of my time in fullstack. I've experience with everything from tools like WordPress & Shopify to frameworks like Raiils & Meteor. I work primarily in PHP and JS (NodeJS).
+
 
 <!--
 **gghosted/gghosted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
